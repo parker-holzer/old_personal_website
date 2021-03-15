@@ -2,7 +2,7 @@
 layout: default
 ---
 
- About Me  \ \ \  Research Projects  \ \ \  CV   \ \ \  Consulting
+ About Me  &nbsp; &nbsp;  Research Projects  &nbsp; &nbsp;  CV   &nbsp; &nbsp;  Consulting
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
