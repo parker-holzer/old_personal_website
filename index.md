@@ -10,9 +10,11 @@ I am currently a Ph.D. student in the Department of Statistics & Data Science at
 
 <center><img src="./assets/img/IMG-0229.jpg" width="300" height="345" /></center>
 
+My hobbies include biking, piano and trombone playing, family history research, and [blogging](https://lightandtruthlds.blogspot.com).
+
 # News
 
-
+I recently gave a talk at the STAtistical Methods for the Physical Sciences (STAMPS) webinar series! [Check it out!](https://www.youtube.com/watch?v=UpooAqzIOVY&t=1s)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
