@@ -2,7 +2,7 @@
 layout: default
 ---
 
- About Me  &nbsp; &nbsp;  Research Projects  &nbsp; &nbsp;  CV   &nbsp; &nbsp;  Consulting
+ About Me  &nbsp; &nbsp;  [Research Projects](./research.html)  &nbsp; &nbsp;  CV   &nbsp; &nbsp;  [Consulting](./consulting.html)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
