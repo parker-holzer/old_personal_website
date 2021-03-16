@@ -8,7 +8,7 @@ layout: default
 
 I am currently a Ph.D. student in the Department of Statistics & Data Science at Yale University. My research interests primarily center on interpretable machine learning, unified statistical approaches that use both bayesian and frequentist techniques, and applications to the hard sciences. I have an amazing wife and two wonderful sons!
 
-<img src="https://github.com/parkerholzer/parkerholzer.github.io/blob/master/assets/img/IMG-0229.jpg" width="200" height="230" />
+<img src="./assets/img/IMG-0229.jpg" width="200" height="230" />
 
 Did this show up again?
 
