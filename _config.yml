@@ -1,6 +1,7 @@
 title: Parker H. Holzer
 logo: /assets/img/logo.jpeg
-description: Department of Statistics & Data Science \\ Yale University
+description: Department of Statistics & Data Science
+email: parker.holzer@yale.edu
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
