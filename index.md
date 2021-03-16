@@ -6,7 +6,9 @@ layout: default
 
 # About Me
 
-I am currently a Ph.D. student in the Department of Statistics \& Data Science at Yale University.
+I am currently a Ph.D. student in the Department of Statistics & Data Science at Yale University. My research interests primarily center on interpretable machine learning, unified statistical approaches that use both bayesian and frequentist techniques, and applications to the hard sciences. I have an amazing wife and two wonderful sons!
+
+![](./assets/img/IMG-0229.jpg)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
