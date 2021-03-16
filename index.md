@@ -2,7 +2,11 @@
 layout: default
 ---
 
-## About Me  &nbsp;  [Research Projects](./research.html)  &nbsp;  CV   &nbsp; [Consulting](./consulting.html)
+## [Research Projects](./research.html)  &nbsp; &nbsp;  CV   &nbsp; &nbsp; [Consulting](./consulting.html)
+
+#About Me
+
+I am currently a Ph.D. student in the Department of Statistics \& Data Science at Yale University.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
