@@ -10,7 +10,9 @@ I am currently a Ph.D. student in the Department of Statistics & Data Science at
 
 <center><img src="./assets/img/IMG-0229.jpg" width="300" height="345" /></center>
 
-Did this show up again?
+# News
+
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
