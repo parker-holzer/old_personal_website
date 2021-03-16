@@ -10,6 +10,8 @@ I am currently a Ph.D. student in the Department of Statistics & Data Science at
 
 ![](./assets/img/IMG-0229.jpg)
 
+Did this show up?
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
