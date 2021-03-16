@@ -10,7 +10,7 @@ I am currently a Ph.D. student in the Department of Statistics & Data Science at
 
 <img src="https://github.com/parkerholzer/parkerholzer.github.io/blob/master/assets/img/IMG-0229.jpg" width="200" height="230" />
 
-Did this show up?
+Did this show up again?
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
