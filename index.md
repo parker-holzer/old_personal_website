@@ -4,7 +4,7 @@ layout: default
 
 ## [Research Projects](./research.html)  &nbsp; &nbsp;  CV   &nbsp; &nbsp; [Consulting](./consulting.html)
 
-#About Me
+# About Me
 
 I am currently a Ph.D. student in the Department of Statistics \& Data Science at Yale University.
 
