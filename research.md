@@ -14,5 +14,7 @@ layout: default
 ## Human Placenta
 
 * **Trophoblasst Inclusions in the Human Placenta: Identification, Characterization, Quantification, and Interrelations of Subtypes**: Trophoblast inclusions are a feature that can occur on the human placenta during pregnancy. In this project I used statistical bootstrapping to demonstrate that the four subtypes of these inclusions have statistcally significant Spearman correlations with each other. [Paper](https://www.sciencedirect.com/science/article/pii/S0143400420304082) ![](./assets/img/TI_venndiag.png)
+* **Causes of Unexplained Pregnancy Loss**: 
+* **Genetics, Not the Uterine Environment, Drive the Formation of Trophoblast Inclusions: Insights From a Twin Study**: In this study I derived and implemented a generalized likelihood ratio test
 
 ## Other Projects
