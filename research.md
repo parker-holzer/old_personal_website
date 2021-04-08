@@ -18,3 +18,5 @@ layout: default
 * **Genetics, Not the Uterine Environment, Drive the Formation of Trophoblast Inclusions: Insights From a Twin Study**: In this study I derived and implemented a generalized likelihood ratio test for testing whether two samples of exponentially-distributed random variables have the same mean. Applying this to a study of monozygotic and dizygotic twins, we find that the trophoblast inclusion difference is greater for dizygotic twins than for monozygotic twins. Paper (see Supplementary File)
 
 ## Other Projects
+
+* **Bountiful Real Estate Home Value Modeling**: Here I use webscraping to obtain data on recently (as of March 2021) sold houses in Bountiful, Utah. Using multiple regression I demonstrate that after acconting for effects of lot size, year built, living area, and bathroom count, the value *decreases* by about $15,000 for each additional bedroom. Furthermore, I demonstrate that the value depends more quadratically than linearly on the living area. ![](./assets/img/bed_avp.png)
