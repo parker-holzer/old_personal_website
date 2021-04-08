@@ -19,4 +19,4 @@ layout: default
 
 ## Other Projects
 
-* **Bountiful Real Estate Home Value Modeling**: Here I use webscraping to obtain data on recently (as of March 2021) sold houses in Bountiful, Utah. Using multiple regression I demonstrate that after acconting for effects of lot size, year built, living area, and bathroom count, the value *decreases* by about $15,000 for each additional bedroom. Furthermore, I demonstrate that the value depends more quadratically than linearly on the living area. [R source code] ![](./assets/img/bed_avp.png)
+* **Bountiful Real Estate Home Value Modeling**: Here I use webscraping to obtain data on recently (as of March 2021) sold houses in Bountiful, Utah. Using multiple regression I demonstrate that after acconting for effects of lot size, year built, living area, and bathroom count, the value *decreases* by about $15,000 for each additional bedroom. Furthermore, I demonstrate that the value depends more quadratically than linearly on the living area. [R source code](https://github.com/parkerholzer/Bountiful_houses_sold) ![](./assets/img/bed_avp.png)
