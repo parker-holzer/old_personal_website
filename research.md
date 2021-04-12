@@ -19,4 +19,5 @@ layout: default
 
 ## Other Projects
 
+* **COVID-19 Dictionary Learning**: In this project I analyze the time series of positive cases for COVID-19 for each of the United States and territories using dictionary learning. Overall, approximately 95% of the data can be explained as a linear combination of four interpretable patterns, suggesting that the pandemic's progression over time in the United States is actually rather straight-forward. [Python source code](https://github.com/parkerholzer/COVID19_dictionary_learning) ![](./assets/img/COVID19-dictlearning_components.png)
 * **Bountiful Real Estate Home Value Modeling**: Here I use webscraping to obtain data on recently (as of March 2021) sold houses in Bountiful, Utah. Using multiple regression I demonstrate that after acconting for effects of lot size, year built, living area, and bathroom count, the value *decreases* by about $15,000 for each additional bedroom. Furthermore, I demonstrate that the value depends more quadratically than linearly on the living area. [R source code](https://github.com/parkerholzer/Bountiful_houses_sold) ![](./assets/img/bed_avp.png)
