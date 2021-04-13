@@ -1,3 +1,5 @@
 
-### Need someone to uncover the story hidden in your data?
+## [Google Scholar](https://scholar.google.com/citations?hl=en&user=RqViEccAAAAJ)
+
+
 
