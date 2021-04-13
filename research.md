@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## [About Me](./)  &nbsp; &nbsp;  CV   &nbsp; &nbsp; [Consulting](./consulting.html)
+## [About Me](./)  &nbsp; &nbsp;  [CV](./parkerholzer.pdf)   &nbsp; &nbsp; [Other Sites](./consulting.html)
 
 # Research Projects
 
