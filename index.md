@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## [Research Projects](./research.html)  &nbsp; &nbsp;  CV   &nbsp; &nbsp; [Consulting](./consulting.html)
+## [Research Projects](./research.html)  &nbsp; &nbsp;  [CV](./parkerholzer.pdf)   &nbsp; &nbsp; [Other Sites](./consulting.html)
 
 # About Me
 
@@ -17,7 +17,3 @@ My hobbies include biking, piano and trombone playing, family history research, 
 I recently gave a talk at the STAtistical Methods for the Physical Sciences (STAMPS) webinar series! [Check it out!](https://www.youtube.com/watch?v=UpooAqzIOVY&t=1s)
 
 
-
-```
-The final element.
-```
