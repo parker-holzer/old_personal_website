@@ -14,6 +14,8 @@ My hobbies include biking, piano and trombone playing, family history research, 
 
 # News
 
+A paper about the human placenta that I did some work as a statistician for is published! Most of my work is in the supplementary file in Appendix A. [Check it out!](https://www.sciencedirect.com/science/article/pii/S0143400421001284?dgcid=raven_sd_aip_email)
+
 I recently gave a talk at the STAtistical Methods for the Physical Sciences (STAMPS) webinar series! [Check it out!](https://www.youtube.com/watch?v=UpooAqzIOVY&t=1s)
 
 
