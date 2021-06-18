@@ -9,3 +9,5 @@
 
 ## [GitHub](https://github.com/parkerholzer)
 
+## [LindedIn](https://www.linkedin.com/in/parker-holzer-417561a1/)
+
