@@ -14,7 +14,7 @@ My hobbies include biking, piano and trombone playing, family history research, 
 
 # News
 
-The HGRV paper just got published in the Annals of Applied Statistics! You can either download it [here](./20-AOAS1406.pdf) or by visiting the journal [here](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-15/issue-2/A-HermiteGaussian-based-exoplanet-radial-velocity-estimation-method/10.1214/20-AOAS1406.full)
+The HGRV paper just got published in the Annals of Applied Statistics! You can either download it [here](./20-AOAS1406.pdf) or by visiting the journal [here](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-15/issue-2/A-HermiteGaussian-based-exoplanet-radial-velocity-estimation-method/10.1214/20-AOAS1406.full).
 
 The SAFE paper has officially been published! Check it out [here](https://iopscience.iop.org/article/10.3847/1538-3881/abf5e0).
 
