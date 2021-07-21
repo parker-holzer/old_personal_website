@@ -14,6 +14,8 @@ My hobbies include biking, piano and trombone playing, family history research, 
 
 # News
 
+The HGRV paper just got published in the Annals of Applied Statistics! You can either download it [here](./20-AOAS1406.pdf) or by visiting the journal [here](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-15/issue-2/A-HermiteGaussian-based-exoplanet-radial-velocity-estimation-method/10.1214/20-AOAS1406.full)
+
 The SAFE paper has officially been published! Check it out [here](https://iopscience.iop.org/article/10.3847/1538-3881/abf5e0).
 
 Here's a [Yale News article](https://news.yale.edu/2021/05/03/genetics-not-environment-uterus-controls-abnormal-development?fbclid=IwAR0dSbJJWAP56QbGvs4YLThLmtDNiZGyyCRLJrVndl1PQuHWXcSME3HLj5g) giving an overview of the paper I derived a generalized likelihood ratio test for. The paper is about abnormal fetal development being driven by the fetal genetics.
